@@ -27,3 +27,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  # Access is restricted to Intranet during 1:00-6:00 (CST), i.e. 17:00-22:00 (UTC) every day
+  uptime: "*/5 0-16,22-23 * * *"
