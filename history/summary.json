@@ -4,12 +4,12 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "up",
-    "uptime": "87.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "87.50%",
+    "status": "down",
+    "uptime": "87.63%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "87.63%",
     "time": 2412,
     "timeDay": 11949,
     "timeWeek": 4453,
@@ -46,7 +46,8 @@
       "2026-05-19": 332,
       "2026-05-20": 333,
       "2026-05-21": 344,
-      "2026-05-22": 324
+      "2026-05-22": 324,
+      "2026-05-27": 10
     }
   },
   {
@@ -54,12 +55,12 @@
     "url": "https://lab.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
-    "status": "up",
-    "uptime": "87.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "87.48%",
+    "status": "down",
+    "uptime": "87.61%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "90.41%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "87.61%",
     "time": 2348,
     "timeDay": 1848,
     "timeWeek": 2027,
@@ -95,7 +96,8 @@
       "2026-05-19": 327,
       "2026-05-20": 328,
       "2026-05-21": 339,
-      "2026-05-22": 319
+      "2026-05-22": 319,
+      "2026-05-27": 5
     }
   },
   {
@@ -103,12 +105,12 @@
     "url": "https://git.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
-    "status": "up",
-    "uptime": "87.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.36%",
+    "status": "down",
+    "uptime": "87.42%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "90.55%",
     "uptimeMonth": "90.48%",
-    "uptimeYear": "87.28%",
+    "uptimeYear": "87.42%",
     "time": 3492,
     "timeDay": 3602,
     "timeWeek": 4111,
@@ -144,7 +146,8 @@
       "2026-05-19": 322,
       "2026-05-20": 323,
       "2026-05-21": 334,
-      "2026-05-22": 315
+      "2026-05-22": 315,
+      "2026-05-27": 0
     }
   }
 ]
