@@ -4,17 +4,17 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "down",
-    "uptime": "88.31%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "88.31%",
-    "time": 2543,
-    "timeDay": 2156,
-    "timeWeek": 2986,
-    "timeMonth": 3044,
-    "timeYear": 2543,
+    "status": "up",
+    "uptime": "88.05%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "88.05%",
+    "time": 2533,
+    "timeDay": 1807,
+    "timeWeek": 2833,
+    "timeMonth": 3007,
+    "timeYear": 2533,
     "dailyMinutesDown": {
       "2026-04-03": 322,
       "2026-04-04": 334,
@@ -52,7 +52,7 @@
       "2026-05-29": 309,
       "2026-06-01": 287,
       "2026-06-02": 295,
-      "2026-06-08": 10
+      "2026-06-08": 295
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://lab.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
-    "status": "down",
-    "uptime": "88.32%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "89.71%",
-    "uptimeYear": "88.32%",
-    "time": 2438,
-    "timeDay": 2238,
-    "timeWeek": 2668,
-    "timeMonth": 2851,
-    "timeYear": 2438,
+    "status": "up",
+    "uptime": "88.06%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "88.06%",
+    "time": 2437,
+    "timeDay": 2272,
+    "timeWeek": 2632,
+    "timeMonth": 2839,
+    "timeYear": 2437,
     "dailyMinutesDown": {
       "2026-04-03": 321,
       "2026-04-04": 334,
@@ -107,7 +107,7 @@
       "2026-05-29": 304,
       "2026-06-01": 282,
       "2026-06-02": 290,
-      "2026-06-08": 5
+      "2026-06-08": 291
     }
   },
   {
@@ -115,17 +115,17 @@
     "url": "https://git.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "88.19%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "89.39%",
-    "uptimeYear": "88.19%",
-    "time": 3673,
-    "timeDay": 4384,
-    "timeWeek": 4630,
-    "timeMonth": 4409,
-    "timeYear": 3673,
+    "status": "up",
+    "uptime": "87.93%",
+    "uptimeDay": "80.15%",
+    "uptimeWeek": "94.19%",
+    "uptimeMonth": "88.74%",
+    "uptimeYear": "87.93%",
+    "time": 3675,
+    "timeDay": 4128,
+    "timeWeek": 4554,
+    "timeMonth": 4396,
+    "timeYear": 3675,
     "dailyMinutesDown": {
       "2026-04-03": 321,
       "2026-04-04": 333,
@@ -162,7 +162,7 @@
       "2026-05-29": 299,
       "2026-06-01": 277,
       "2026-06-02": 285,
-      "2026-06-08": 0
+      "2026-06-08": 286
     }
   }
 ]
