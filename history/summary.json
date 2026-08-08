@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
     "status": "down",
-    "uptime": "92.17%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "92.17%",
+    "uptime": "91.47%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "91.47%",
     "time": 2336,
     "timeDay": 0,
-    "timeWeek": 2724,
+    "timeWeek": 2856,
     "timeMonth": 2066,
     "timeYear": 2336,
     "dailyMinutesDown": {
@@ -61,7 +61,8 @@
       "2026-06-25": 329,
       "2026-06-26": 336,
       "2026-06-30": 328,
-      "2026-08-07": 66
+      "2026-08-08": 101,
+      "2026-08-07": 1345
     }
   },
   {
@@ -70,14 +71,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
     "status": "down",
-    "uptime": "92.20%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "92.20%",
+    "uptime": "91.50%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.71%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "91.50%",
     "time": 2487,
     "timeDay": 0,
-    "timeWeek": 2328,
+    "timeWeek": 1924,
     "timeMonth": 3258,
     "timeYear": 2487,
     "dailyMinutesDown": {
@@ -125,7 +126,8 @@
       "2026-06-25": 325,
       "2026-06-26": 331,
       "2026-06-30": 323,
-      "2026-08-07": 61
+      "2026-08-08": 101,
+      "2026-08-07": 1340
     }
   },
   {
@@ -134,14 +136,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "92.15%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "92.15%",
+    "uptime": "91.46%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "91.46%",
     "time": 3704,
     "timeDay": 0,
-    "timeWeek": 3556,
+    "timeWeek": 3021,
     "timeMonth": 3360,
     "timeYear": 3704,
     "dailyMinutesDown": {
@@ -189,7 +191,8 @@
       "2026-06-25": 320,
       "2026-06-26": 326,
       "2026-06-30": 318,
-      "2026-08-07": 56
+      "2026-08-08": 101,
+      "2026-08-07": 1335
     }
   }
 ]
