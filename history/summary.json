@@ -4,14 +4,14 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "up",
-    "uptime": "80.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "49.39%",
-    "uptimeMonth": "35.42%",
-    "uptimeYear": "80.22%",
+    "status": "down",
+    "uptime": "80.30%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "57.74%",
+    "uptimeMonth": "35.40%",
+    "uptimeYear": "80.30%",
     "time": 2320,
-    "timeDay": 1895,
+    "timeDay": 1568,
     "timeWeek": 1899,
     "timeMonth": 2569,
     "timeYear": 2320,
@@ -82,7 +82,8 @@
       "2026-08-08": 1440,
       "2026-08-07": 1345,
       "2026-08-29": 210,
-      "2026-08-28": 276
+      "2026-08-28": 276,
+      "2026-08-30": 10
     }
   },
   {
@@ -90,14 +91,14 @@
     "url": "https://lab.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
-    "status": "up",
-    "uptime": "80.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "49.44%",
-    "uptimeMonth": "35.44%",
-    "uptimeYear": "80.25%",
+    "status": "down",
+    "uptime": "80.33%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "57.84%",
+    "uptimeMonth": "35.43%",
+    "uptimeYear": "80.33%",
     "time": 2490,
-    "timeDay": 3031,
+    "timeDay": 3813,
     "timeWeek": 2572,
     "timeMonth": 3418,
     "timeYear": 2490,
@@ -167,7 +168,8 @@
       "2026-08-08": 1440,
       "2026-08-07": 1340,
       "2026-08-29": 210,
-      "2026-08-28": 272
+      "2026-08-28": 272,
+      "2026-08-30": 5
     }
   },
   {
@@ -175,14 +177,14 @@
     "url": "https://git.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
-    "status": "up",
-    "uptime": "80.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "49.48%",
+    "status": "down",
+    "uptime": "80.29%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "57.93%",
     "uptimeMonth": "35.46%",
-    "uptimeYear": "80.21%",
+    "uptimeYear": "80.29%",
     "time": 3738,
-    "timeDay": 4532,
+    "timeDay": 5223,
     "timeWeek": 4629,
     "timeMonth": 3993,
     "timeYear": 3738,
@@ -252,7 +254,8 @@
       "2026-08-08": 1440,
       "2026-08-07": 1335,
       "2026-08-29": 210,
-      "2026-08-28": 267
+      "2026-08-28": 267,
+      "2026-08-30": 0
     }
   }
 ]
