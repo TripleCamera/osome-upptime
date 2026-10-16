@@ -4,17 +4,17 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "down",
-    "uptime": "81.93%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "87.70%",
-    "uptimeMonth": "85.00%",
-    "uptimeYear": "81.93%",
-    "time": 2256,
-    "timeDay": 2008,
-    "timeWeek": 2420,
-    "timeMonth": 2113,
-    "timeYear": 2256,
+    "status": "up",
+    "uptime": "81.83%",
+    "uptimeDay": "76.74%",
+    "uptimeWeek": "84.48%",
+    "uptimeMonth": "84.99%",
+    "uptimeYear": "81.83%",
+    "time": 2255,
+    "timeDay": 1939,
+    "timeWeek": 2370,
+    "timeMonth": 2060,
+    "timeYear": 2255,
     "dailyMinutesDown": {
       "2026-04-03": 322,
       "2026-04-04": 334,
@@ -114,7 +114,8 @@
       "2026-10-12": 59,
       "2026-10-14": 51,
       "2026-10-13": 405,
-      "2026-10-15": 10
+      "2026-10-16": 5,
+      "2026-10-15": 330
     }
   },
   {
@@ -122,17 +123,17 @@
     "url": "https://lab.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
-    "status": "down",
-    "uptime": "81.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "85.21%",
-    "uptimeYear": "81.99%",
-    "time": 2373,
-    "timeDay": 1960,
-    "timeWeek": 2113,
-    "timeMonth": 2142,
-    "timeYear": 2373,
+    "status": "up",
+    "uptime": "81.90%",
+    "uptimeDay": "77.08%",
+    "uptimeWeek": "84.67%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "81.90%",
+    "time": 2367,
+    "timeDay": 1480,
+    "timeWeek": 2012,
+    "timeMonth": 2120,
+    "timeYear": 2367,
     "dailyMinutesDown": {
       "2026-04-03": 321,
       "2026-04-04": 334,
@@ -231,7 +232,8 @@
       "2026-10-12": 59,
       "2026-10-14": 52,
       "2026-10-13": 400,
-      "2026-10-15": 5
+      "2026-10-16": 5,
+      "2026-10-15": 325
     }
   },
   {
@@ -239,16 +241,16 @@
     "url": "https://git.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "74.72%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "29.42%",
-    "uptimeMonth": "38.62%",
-    "uptimeYear": "74.72%",
+    "status": "up",
+    "uptime": "74.64%",
+    "uptimeDay": "77.41%",
+    "uptimeWeek": "29.43%",
+    "uptimeMonth": "38.59%",
+    "uptimeYear": "74.64%",
     "time": 3765,
-    "timeDay": 5918,
-    "timeWeek": 5245,
-    "timeMonth": 3879,
+    "timeDay": 4842,
+    "timeWeek": 4949,
+    "timeMonth": 3915,
     "timeYear": 3765,
     "dailyMinutesDown": {
       "2026-04-03": 321,
@@ -350,7 +352,8 @@
       "2026-09-27": 1440,
       "2026-09-26": 586,
       "2026-10-14": 52,
-      "2026-10-15": 0
+      "2026-10-16": 5,
+      "2026-10-15": 320
     }
   }
 ]
